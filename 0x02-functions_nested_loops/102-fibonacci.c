@@ -1,4 +1,4 @@
-#include "main.h"
+#include <stdio.h>
 
 /**
  * main - main block
@@ -31,4 +31,4 @@ int main(void)
 	}
 
 	return (0);
-}
+}i
